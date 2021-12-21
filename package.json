@@ -1,0 +1,16 @@
+{
+  "name": "expresstutorial",
+  "version": "1.0.0",
+  "description": "Express Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "author": "Daniel Otto",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7"
+  }
+}
